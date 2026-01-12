@@ -1,4 +1,4 @@
-// import './style.css' - Removed for vanilla JS compatibility
+
 
 
 document.addEventListener('DOMContentLoaded', () => {
